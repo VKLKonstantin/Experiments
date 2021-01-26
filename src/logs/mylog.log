@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+янв. 07, 2021 1:24:00 PM com.company.CurrentClass main
+SEVERE: S
+янв. 07, 2021 1:24:00 PM com.company.CurrentClass main
+INFO: Checkpont I
+янв. 07, 2021 1:24:00 PM com.company.CurrentClass main
+WARNING: W
+янв. 07, 2021 1:24:00 PM com.company.CurrentClass main
+CONFIG: Checkpont C
+янв. 07, 2021 1:45:57 PM com.company.CurrentClass main
+SEVERE: S
+янв. 07, 2021 1:45:57 PM com.company.CurrentClass main
+INFO: Checkpont I
+янв. 07, 2021 1:45:57 PM com.company.CurrentClass main
+WARNING: W
+янв. 07, 2021 1:45:57 PM com.company.CurrentClass main
+CONFIG: Checkpont C
